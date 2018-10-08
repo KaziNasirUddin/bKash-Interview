@@ -44,3 +44,8 @@ invalid command
 0
 > exit
 ```
+
+### Things to Add:
+  - Logger
+  - Generic Operation
+  - Tests
