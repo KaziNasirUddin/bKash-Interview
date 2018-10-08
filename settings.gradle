@@ -1,2 +1,3 @@
 rootProject.name = 'repl'
+include 'calculator'
 
