@@ -10,6 +10,6 @@ public class InvalidOperation implements IOperation {
 
     @Override
     public Integer process(Integer value) {
-        return 0;
+        return value;
     }
 }
