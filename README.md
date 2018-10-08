@@ -46,6 +46,5 @@ invalid command
 ```
 
 ### Things to Add:
-  - Logger
   - Generic Operation
   - Tests
