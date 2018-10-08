@@ -5,11 +5,19 @@ import java.util.List;
 public class OperationFactory {
     public static IOperation createOperation(String type) {
         switch (type) {
-            case "Add" :
+            case "add" :
                 return new AddOperation();
-
+            case "sub" :
+                return new SubtractOperation();
+            case "show":
+                return new ShowOperation();
+            case "clear" :
+                return new ClearOperation();
+            case "exit" :
+                return new QuitOperation();
+            default :
+                return new InvalidOperation();
         }
 
-        return null;
     }
 }
