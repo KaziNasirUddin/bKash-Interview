@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../JPA" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../JPA/src/main" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../MySQL" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../employee" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="822" />
+    <option name="width" value="1105" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
