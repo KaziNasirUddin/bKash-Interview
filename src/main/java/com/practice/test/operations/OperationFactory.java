@@ -1,6 +1,5 @@
 package com.practice.test.operations;
 
-import java.util.List;
 
 public class OperationFactory {
     public static IOperation createOperation(String type) {
